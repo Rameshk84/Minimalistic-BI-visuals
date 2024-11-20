@@ -1,34 +1,34 @@
-_**Minimalistic Power BI Dashboard for Chocolate Sales Analysis** 🧠
-Overview_
-This repository contains a minimalistic Power BI dashboard designed to provide key insights into chocolate sales data. The focus of this project is to showcase the power of clean, concise visualizations and actionable insights through a simplified design approach.
+_**Minimalistic Power BI Dashboard for Chocolate Sales Analysis** 🧠 <br>
+Overview_<br>
+This repository contains a minimalistic Power BI dashboard designed to provide key insights into chocolate sales data. The focus of this project is to showcase the power of clean, concise visualizations and actionable insights through a simplified design approach.<br>
 
-**Features** ✨
-Minimalistic Design: Prioritizing clarity and simplicity for quick decision-making.
-Interactive Visuals: Offers dynamic and interactive charts for exploring sales data.
-Key Metrics Included:
-Total Sales Revenue
-Monthly Sales Trends
-Top-Selling Chocolate Categories
-Regional Performance Analysis
-Business Insights: Provides clear and actionable insights to improve sales strategies.
-Tools & Techniques
-Power BI: Leveraged for creating interactive and professional dashboards.
-DAX Calculations: Applied for advanced metrics like YoY growth, percentage contributions, and cumulative totals.
-Data Cleaning & Preparation: Data pre-processed to ensure accurate visualizations.
-Minimalist Design Principles: Used to enhance focus on core metrics without visual clutter.
-Dashboard Preview
-
+**Features** ✨<br>
+Minimalistic Design: Prioritizing clarity and simplicity for quick decision-making.<br>
+Interactive Visuals: Offers dynamic and interactive charts for exploring sales data.<br>
+Key Metrics Included:<br>
+Total Sales Revenue<br>
+Monthly Sales Trends<br>
+Top-Selling Chocolate Categories<br>
+Regional Performance Analysis<br>
+Business Insights: Provides clear and actionable insights to improve sales strategies.<br>
+Tools & Techniques<br>
+Power BI: Leveraged for creating interactive and professional dashboards.<br>
+DAX Calculations: Applied for advanced metrics like YoY growth, percentage contributions, and cumulative totals.<br>
+Data Cleaning & Preparation: Data pre-processed to ensure accurate visualizations.<br>
+Minimalist Design Principles: Used to enhance focus on core metrics without visual clutter.<br>
+Dashboard Preview<br>
+<br>
 **Purpose❓
 This project demonstrates my ability to:**
 
-Analyze and visualize data effectively using Power BI.
-Design intuitive dashboards that prioritize user experience.
-Communicate key business insights through data storytelling.
-Skills Highlighted
-Business Intelligence and Dashboard Design
-Data Analysis and Visualization
-Advanced DAX Calculations
-Minimalistic Design for Business Decision-Making
+Analyze and visualize data effectively using Power BI.<br>
+Design intuitive dashboards that prioritize user experience.<br>
+Communicate key business insights through data storytelling.<br>
+Skills Highlighted<br>
+Business Intelligence and Dashboard Design<br>
+Data Analysis and Visualization<br>
+Advanced DAX Calculations<br>
+Minimalistic Design for Business Decision-Making<br>
 
 
 **About Me**🤷🏻‍♀️
