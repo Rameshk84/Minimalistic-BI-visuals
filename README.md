@@ -20,7 +20,7 @@ Dashboard Preview<br>
 <br>
 **Purpose❓
 This project demonstrates my ability to:**
-
+<br>
 Analyze and visualize data effectively using Power BI.<br>
 Design intuitive dashboards that prioritize user experience.<br>
 Communicate key business insights through data storytelling.<br>
@@ -31,9 +31,9 @@ Advanced DAX Calculations<br>
 Minimalistic Design for Business Decision-Making<br>
 
 
-**About Me**🤷🏻‍♀️
+**About Me**🤷🏻‍♀️<br>
 I am a Data Analyst with expertise in creating actionable insights through interactive dashboards and data storytelling. This project showcases my ability to translate raw data into meaningful business insights with a focus on clarity and aesthetics.
-
+<br>
 Connect with Me🙋‍♀️
-LinkedIn: https://www.linkedin.com/in/rameshk12/
+LinkedIn: https://www.linkedin.com/in/rameshk12/ <br>
 Portfolio: rameshda.webflow.io
